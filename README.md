@@ -1,4 +1,6 @@
-hi
+he/him
+
+programmer, artist, and designer.
 
 <!--
 **paradoxrevolver/paradoxrevolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
